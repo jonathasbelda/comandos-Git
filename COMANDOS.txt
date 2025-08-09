@@ -71,4 +71,6 @@ git fetch --all --prune | BUSCA MUDANÇAS DE TODOS OS REMOTOS E REMOVE A BRANCHS
 ## ⌨ SABER ONDE O GIT ARMAZENA AS CONFIGURAÇÕES:
 | COMANDO | RESUMO |
 |---------|--------|
-git config --global --show-origin credential.helper | SABER ONDE O GIT ARMAZENA AS CONFIGURAÇÕES | |
+git config --global --show-origin credential.helper | SABER ONDE O GIT ARMAZENA AS CONFIGURAÇÕES | 
+
+kkkkkkkk
