@@ -1,5 +1,4 @@
 
-
 # Comandos Básicos de SQL
 
 ## ⌨ CONFIGURAR UM NOVO PROJETO
@@ -91,12 +90,6 @@ Para configurar um novo projeto no **Git**, o primeiro passo é inicializar um r
 `git pull`   { Baixa as alterações do repositório remoto } 
 
 
-
-git remote add origin <URL> | CONECTA O REPOSITÓRIO LOCAL COM UM SERVIDOR REMOTO |
-git commit -am "Primeio commit" | ENVIA A BRANCH PRINCIPAL PARA O REMOTO E CONFIGURA O RASTREAMENTO UPSTREAM |
-git config --global --list | RETORNA AS CONFIGURAÇÕES GLOBAIS |
-git clone <NOME DO ENDEREÇO DO GIT> | CRIAR CLONE DO REPOSITÓRIO DO GIT | 
-
 ```
 
 <br>
@@ -150,13 +143,5 @@ Em resumo, os branches são uma ferramenta essencial para o desenvolvimento cola
 `git branch -d feature/velha-feature`     { Deleta uma branch local após a fusão } 
 
 ```
-
-
-
-
-
-
-
-
 
 
